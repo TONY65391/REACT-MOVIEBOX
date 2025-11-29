@@ -10,7 +10,7 @@
 body, p, li, a, span, td, th {font-size: clamp(0.95rem, 1vw + 0.5rem, 1.1rem); line-height: 1.5;}
 
 /* Headings */
-h1 {font-size: clamp(2rem, 4vw + 1rem, 3.5rem);}
+h1, span {font-size: clamp(2rem, 4vw + 1rem, 3.5rem);}
 h2 {font-size: clamp(1.75rem, 3vw + 0.8rem, 2.75rem);}
 h3 {font-size: clamp(1.5rem, 2.5vw + 0.6rem, 2rem);}
 h4 {font-size: clamp(1.25rem, 2vw + 0.4rem, 1.5rem);}
